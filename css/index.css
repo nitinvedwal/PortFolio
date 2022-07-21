@@ -1,9 +1,3 @@
-/*!
-  * Item: Willy Wonka Theme
-  * Description: Personal Portfolio Website Template
-  * Author/Developer: Sujal
-  * Version: v1
-  */
 @import url('https://fonts.googleapis.com/css?family=Raleway:300&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Poppins:500&display=swap');
@@ -691,11 +685,11 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:95%;
+    width:60%;
     border-radius: 10px;
     background: #c70039;
 }
-.js-progress{
+.c-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -705,11 +699,11 @@ body{
     font-family: poppins;
     justify-content: center;
     transition: all .4s ease;
-    width:90%;
+    width:80%;
     border-radius: 10px;
     background: #c70039;
 }
-.adobe-progress{
+.java-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -718,11 +712,11 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:83%;
+    width:60%;
     border-radius: 10px;
     background: #c70039;
 }
-.php-progress{
+.dsa-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -730,12 +724,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:85%;
+    width:80%;
     border-radius: 10px;
     background: #c70039;
     transition: all .4s ease;
 }
-.jquery-progress{
+.js-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -744,7 +738,20 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:94%;
+    width:50%;
+    border-radius: 10px;
+    background: #c70039;
+}
+.python-progress{
+    position: absolute;
+    top:10%;
+    left:1%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .4s ease;
+    width:50%;
     border-radius: 10px;
     background: #c70039;
 }
